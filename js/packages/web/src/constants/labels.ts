@@ -1,12 +1,13 @@
 export const LABELS = {
-  STORE_NAME: 'Metaplex',
+  STORE_NAME: 'Glubbers by GLUING',
   CONNECT_LABEL: 'Connect Wallet',
-  GIVE_SOL: 'Give me SOL',
+  GIVE_SOL: 'Give us SOL',
   FAUCET_INFO:
     'This faucet will help you fund your accounts outside of Solana main network.',
   ACCOUNT_FUNDED: 'Account funded.',
   MENU_HOME: 'Home',
   MENU_FAUCET: 'Faucet',
+  APP_TITLE: 'GLUING',
   CONNECT_BUTTON: 'Connect',
   WALLET_TOOLTIP: 'Wallet public key',
   WALLET_BALANCE: 'Wallet balance',
