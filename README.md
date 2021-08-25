@@ -1,8 +1,10 @@
 <p align="center">
   <a href="https://gluing.io">
-    <img alt="GLUING" src="https://gluing.io/wp-content/uploads/2021/07/cropped-logo-gluing-1.png" width="250" />
+    <img alt="GLUING" src="https://gluing.io/wp-content/uploads/2021/07/cropped-logo-gluing-1.png" width="100" />
   </a>
 </p>
+
+<h1>Glubbers NFT Marketplace by GLUING</h1>
 
 Glubbers NFT marketplace is build using Metaplex.
 
