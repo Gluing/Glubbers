@@ -40,7 +40,7 @@ export default class MetaplexDocument extends Document {
             href="/favicon-16x16.png"
           />
           <meta name="theme-color" content="#000000" />
-          <meta name="description" content="GLUING NFT Marketplace" />
+          <meta name="description" content="Glubbers NFT Marketplace" />
           <link rel="manifest" href="/manifest.json" />
           <link
             rel="stylesheet"
