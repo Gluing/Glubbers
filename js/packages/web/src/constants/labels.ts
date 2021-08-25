@@ -7,7 +7,7 @@ export const LABELS = {
   ACCOUNT_FUNDED: 'Account funded.',
   MENU_HOME: 'Home',
   MENU_FAUCET: 'Faucet',
-  APP_TITLE: 'GLUING',
+  APP_TITLE: 'Glubbers',
   CONNECT_BUTTON: 'Connect',
   WALLET_TOOLTIP: 'Wallet public key',
   WALLET_BALANCE: 'Wallet balance',
