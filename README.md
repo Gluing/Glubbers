@@ -1,8 +1,10 @@
 <p align="center">
-  <a href="https://metaplex.com">
-    <img alt="Metaplex" src="https://metaplex.com/static/logos/metaplex.svg" width="250" />
+  <a href="https://gluing.io">
+    <img alt="GLUING" src="https://gluing.io/wp-content/uploads/2021/07/cropped-logo-gluing-1.png" width="250" />
   </a>
 </p>
+
+Glubbers NFT marketplace is build using Metaplex.
 
 Metaplex is a protocol built on top of Solana that allows:
 
