@@ -141,9 +141,9 @@ export const AuctionListView = () => {
   return (
     <>
       <Banner
-        src={'/main-banner.svg'}
-        headingText={'The amazing world of Metaplex.'}
-        subHeadingText={'Buy exclusive Metaplex NFTs.'}
+        src={'/glubbers-banner.svg'}
+        headingText={'The amazing world of GLUING metaverse.'}
+        subHeadingText={'Buy exclusive Glubbers NFTs.'}
         actionComponent={<HowToBuyModal buttonClassName="secondary-btn" />}
         useBannerBg={true}
       />
